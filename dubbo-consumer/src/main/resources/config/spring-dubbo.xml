@@ -8,7 +8,7 @@
        http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
 
     <dubbo:application name="consumer"/>
-    <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
+    <dubbo:registry address="zookeeper://47.98.186.135:2181"/>
     <dubbo:annotation package="com.boot.controller"/>
 </beans>
 
